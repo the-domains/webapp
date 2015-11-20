@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-20T21:32:27.998Z'
-dateModified: '2015-11-20T21:31:52.181Z'
+datePublished: '2015-11-20T21:40:40.211Z'
+dateModified: '2015-11-20T21:40:35.296Z'
 title: 'Major improvements to the Grid Beta Post Editor are afoot!'
 author: []
+sourcePath: _posts/2015-11-20-major-improvements-to-the-grid-beta-post-editor-are-afoot.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-20-major-improvements-to-the-grid-beta-post-editor-are-afoot.md
-published: true
 url: major-improvements-to-the-grid-beta-post-editor-are-afoot/index.html
 _type: Article
 
@@ -48,6 +48,8 @@ Near-future todos:
 * make internal line breaks (shift+return) work (now they get cleaned out by server when reopened)
 * un/applying blockquote formatting can cause explosions 💥 ... fix that
 * replace (i) post meta modal with proper publish flow
+
+@forresto
 
 [0]: http://prosemirror.net/
 [1]: http://trix-editor.org/
