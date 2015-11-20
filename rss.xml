@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Grid's web-based content management system: updates, screenshots, progress]]></title>
+        <description><![CDATA[The Grid's web-based content management system: updates, screenshots, progress]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 20 Nov 2015 21:33:35 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Major improvements to the Grid Beta Post Editor are afoot!]]></title>
+            <description><![CDATA[<article><h1>Major improvements to the Grid Beta Post Editor are afoot!</h1><p>Dear Grid early beta testers,</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/18a61dfb-6e9c-489e-ad80-bcfd3fa4cc86.png"></article>]]></description>
+            <link>undefinedmajor-improvements-to-the-grid-beta-post-editor-are-afoot/index.html</link>
+            <guid isPermaLink="false">1541adba-de88-418c-bc1b-c6bc87fb593e</guid>
+            <pubDate>Fri, 20 Nov 2015 21:32:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
