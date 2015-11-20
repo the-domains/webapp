@@ -1,0 +1,28 @@
+name: webapp
+favicon: null
+layout_spectrum: 0.9171892972663045
+typography_spectrum: 0.30072773480787873
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5085928298067302
+  lightness: 0.4343303593341261
+  saturation: 0.05514078331179917
+  rhythmicContrast: 0.09345121355727315
+purpose: []
