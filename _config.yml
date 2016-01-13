@@ -2,7 +2,7 @@ name: webapp
 favicon: null
 layout_spectrum: 0.65856
 typography_spectrum: 0.30566
-title: "The Grid's web-based content management system: updates, screenshots, progress"
+title: "The Grid's web app"
 cta:
   domain: null
   bucket: null
