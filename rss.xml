@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Grid's web-based content management system: updates, screenshots, progress]]></title>
-        <description><![CDATA[The Grid's web-based content management system: updates, screenshots, progress]]></description>
+        <title><![CDATA[The Grid's web app]]></title>
+        <description><![CDATA[The Grid's web app]]></description>
         <link>https://thegrid.ai/webapp/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 Nov 2015 21:40:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2016 14:41:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/webapp/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Fixed a couple of bugs!</p>]]></description>
+            <link>https://thegrid.ai/webapp/329adf93-b42d-43f8-8f0c-52ea03827c38/index.html</link>
+            <guid isPermaLink="false">329adf93-b42d-43f8-8f0c-52ea03827c38</guid>
+            <pubDate>Wed, 17 Feb 2016 14:40:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Major improvements to the Grid Beta Post Editor are afoot!]]></title>
-            <description><![CDATA[<article><h1>Major improvements to the Grid Beta Post Editor are afoot!</h1><p>Dear Grid early beta testers,</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/18a61dfb-6e9c-489e-ad80-bcfd3fa4cc86.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Major improvements to the Grid Beta Post Editor are afoot!</h1><p>Dear Grid early beta testers,</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f64c99509ed0da7ece5ca10abc68e1ffce482220.png"></article>]]></description>
             <link>https://thegrid.ai/webapp/major-improvements-to-the-grid-beta-post-editor-are-afoot/index.html</link>
             <guid isPermaLink="false">1541adba-de88-418c-bc1b-c6bc87fb593e</guid>
             <pubDate>Fri, 20 Nov 2015 21:40:40 GMT</pubDate>
