@@ -4,14 +4,14 @@
         <description><![CDATA[The Grid's web app]]></description>
         <link>https://thegrid.ai/webapp/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 14:41:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2016 14:42:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/webapp/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Fixed a couple of bugs!</p>]]></description>
             <link>https://thegrid.ai/webapp/329adf93-b42d-43f8-8f0c-52ea03827c38/index.html</link>
             <guid isPermaLink="false">329adf93-b42d-43f8-8f0c-52ea03827c38</guid>
-            <pubDate>Wed, 17 Feb 2016 14:40:52 GMT</pubDate>
+            <pubDate>Wed, 17 Feb 2016 14:42:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Major improvements to the Grid Beta Post Editor are afoot!]]></title>
