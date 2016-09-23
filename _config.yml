@@ -1,20 +1,4 @@
-name: webapp
-favicon: null
-layout_spectrum: 0.65856
 typography_spectrum: 0.30566
-title: "The Grid's web app"
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ADD7F6'
@@ -26,4 +10,25 @@ color:
   lightness: 0.5
   saturation: 1
   rhythmicContrast: 0.5
+github: true
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.65856
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: webapp
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Add a “buy now” button
+    id: e80fb260-6b8a-47d0-bb41-5ef7aef40ae2
+    type: content
+favicon: null
+title: The Grid's web app
 purpose: []
